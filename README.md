@@ -31,16 +31,14 @@ The dataset contains information about:
 ## 🧰 Tools Used
 
 - Microsoft Excel (PivotTables, Charts, Conditional Formatting)
-- Microsoft Word (Executive Summary Report)
-- Python (optional, for chart generation and formatting)
-- Fictitious Dataset (no real-world personal data involved)
+- Canva (Report Creation)
 
 ---
 
 ## 📎 Files Included
 
-- `TrackA.xlsx` – The Excel file with raw data and PivotTables  
-- `Executive_Summary_Report.docx` – Business-style report with insights  
+- `Regional Lifestyle Survey Analysis.xlsx` – The Excel file with raw data and PivotTables  
+- `Report.pdf` – Business-style report with insights  
 - `README.md` – This file  
 
 ---
